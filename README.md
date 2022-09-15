@@ -58,4 +58,5 @@ Completed Prgs until now in java Programming.
 47. Reverse Number java.
 48. Square root of perfect square number both in pos and neg.
 49. Removing vowels from a string.
-50. 
+50. Frequency of elements in a array.
+51. 
