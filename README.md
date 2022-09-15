@@ -56,4 +56,5 @@ Completed Prgs until now in java Programming.
 45. Lcm And Gcd calculation.
 46. Mth max and Nth min of tow number and sum of it.
 47. Reverse Number java.
-48. 
+48. Square root of perfect square number both in pos and neg.
+49. 
