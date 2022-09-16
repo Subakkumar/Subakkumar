@@ -60,4 +60,14 @@ Completed Prgs until now in java Programming.
 49. Removing vowels from a string.
 50. Frequency of elements in a array.
 51. n integer n, return a string array.
-52. 
+52. Number of days in a month, get input of both year and month.
+53. Java code to Implement with the Parametrized Constructor.
+54. Runnable interface in Java to generate Fibonacci series.
+55. Array Index Out Of Bounds Exception program in java.
+56. Print last word of a string.
+57. Print Common Elements in a array.
+58. Reduce positive integer to zero.
+59. Print composite numbers in a array seperately.
+60. Sort a string and reverse it.
+61. Removal of vowel in a string .
+62. 
