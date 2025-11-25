@@ -19,6 +19,5 @@ networks that self-audit and proactively identify security risks.*
 ## 🌟 Featured Projects:
 - **Brain Tumor Classification** - Significantly higher accuracy with EfficientNetB3
 - **Network Compliance Auditor** - Automated security checking & reporting
-- **Enterprise Data Center Design** - Three-tier architecture implementation
 
 *Bridging the gap between AI intelligence and network infrastructure reliability.*
