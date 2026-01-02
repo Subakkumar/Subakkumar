@@ -17,7 +17,7 @@ networks that self-audit and proactively identify security risks.*
 **Tools:** TensorFlow, Packet Tracer, Wireshark, Git, VS Code, Linux
 
 ## 🌟 Featured Projects:
-- **Brain Tumor Classification** - Significantly higher accuracy with EfficientNetB3
+- **Brain Tumor Classification** - Significantly higher accuracy with EfficientNetB0
 - **Network Compliance Auditor** - Automated security checking & reporting
 
 *Bridging the gap between AI intelligence and network infrastructure reliability.*
