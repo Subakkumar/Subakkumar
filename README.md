@@ -6,8 +6,8 @@ networks that self-audit and proactively identify security risks.*
 
 ## 🚀 What I Bring:
 - **AI/Data Science Foundation** from Saveetha University + Brain Tumor AI projects
-- **CCNA Networking Expertise** in routing, switching, and security compliance  
 - **Python Automation Skills** for network operations and intelligent auditing
+- - **CCNA Networking Expertise** in routing, switching, and security compliance  
 - **End-to-End Project Experience** from brain tumor classification to network security
 
 ## 🔧 Technical Arsenal:
