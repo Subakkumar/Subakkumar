@@ -1,4 +1,4 @@
-**Hi I'm Subak Kumar - AI Developer | Network Automation Specialist | CCNA Certified**
+**Hi I'm Subak Kumar - AI Developer| Junior Software Dev | Network Automation Specialist | CCNA Certified**
 
 *Applying AI/Data Science principles to network infrastructure automation. 
 Just as I built medical AI systems with higher accuracy, I now create intelligent 
