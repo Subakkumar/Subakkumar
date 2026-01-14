@@ -12,9 +12,13 @@ networks that self-audit and proactively identify security risks.*
 
 ## 🔧 Technical Arsenal:
 **AI/DS:** Transfer Learning, Computer Vision, Model Optimization, Grad-CAM
+
 **Programming:** Python(Intermediate), Java(Intermediate), C/C++(Basic)
+
 **Networking:** Cisco IOS, Routing & Switching, VLANs, Security, OSPF, HSRP
+
 **Automation:** Python, Netmiko, REST APIs, Data Processing, Cross-Validation
+
 **Tools:** TensorFlow, Packet Tracer, Wireshark, Git, VS Code, Linux
 
 ## 🌟 Featured Projects:
