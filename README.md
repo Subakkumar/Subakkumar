@@ -37,15 +37,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subakkumar&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subakkumar&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subakkumar&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subakkumar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+</p>
   <i>Open to AI/ML engineer and software developer roles — let's build something great.</i>
 </p>
