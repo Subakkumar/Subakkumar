@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Subak Kumar 👋</h1>
 
 <p align="center">
-  <b>AI Engineer · Python Developer · CCNA Certified</b><br/>
+  <b>AI Engineer · Python Developer </b><br/>
   Building intelligent tools that solve real engineering problems
 </p>
 
