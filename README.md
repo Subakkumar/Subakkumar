@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Subak Kumar 👋</h1>
 
 <p align="center">
-  <b>AI Engineer · Data Scientist · Python Developer · CCNA Certified</b><br/>
+  <b>AI Engineer · Data Scientist · Python Developer · Cisco & Networking</b><br/>
   Building intelligent tools that solve real engineering and business problems
 </p>
 
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Groq-LLM-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ChromaDB-Vector_DB-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/XGBoost-ML-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CCNA-Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
 ---
