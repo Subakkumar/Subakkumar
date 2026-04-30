@@ -19,21 +19,21 @@
 ## 🤖 AI & LLM Projects
 
 | Project | What it does | Stack |
-|---|---|---|
-| [🎤 AI Interview Coach](https://github.com/Subakkumar/ai-interview-coach) | Mock interviews with adaptive AI follow-ups + radar chart report | Flask · Groq · Chart.js |
-| [🔍 AI Code Reviewer](https://github.com/Subakkumar/ai-code-reviewer) | Reviews code for bugs, security issues, architecture problems | Flask · Groq · SQLite |
-| [📊 System Failure Monitor](https://github.com/Subakkumar/system-failure-monitor) | Predicts system failures before they happen with ETA alerts | Flask · NumPy · APScheduler |
-| [🧠 RAG Knowledge Assistant](https://github.com/Subakkumar/ai-knowledge-assistant) | Chat with your own documents with source citations | ChromaDB · Groq · Flask |
-| [📝 Auto Doc Generator](https://github.com/Subakkumar/auto-doc-generator) | Auto-generates technical documentation from any Python codebase | AST · Flask · Groq |
+|:---|:---|:---|
+| [🎤 AI Interview Coach](https://github.com/Subakkumar/ai-interview-coach) | Mock interviews with adaptive AI follow-ups + radar chart performance report | Flask · Groq · Chart.js |
+| [🔍 AI Code Reviewer](https://github.com/Subakkumar/ai-code-reviewer) | Reviews code for bugs, security vulnerabilities and architecture problems | Flask · Groq · SQLite |
+| [📊 System Failure Monitor](https://github.com/Subakkumar/system-failure-monitor) | Predicts system failures before they happen with actionable ETA alerts | Flask · NumPy · APScheduler |
+| [🧠 RAG Knowledge Assistant](https://github.com/Subakkumar/ai-knowledge-assistant) | Chat with your own documents — PDFs, notes, markdown — with source citations | ChromaDB · Groq · Flask |
+| [📝 Auto Doc Generator](https://github.com/Subakkumar/auto-doc-generator) | Auto-generates complete technical documentation from any Python codebase | AST · Flask · Groq |
 
 ## 📊 Data Science & Analytics Projects
 
 | Project | What it does | Stack |
-|---|---|---|
-| [📉 Churn Prediction](https://github.com/Subakkumar/churn-prediction) | Predicts customer churn — XGBoost model AUC 0.9879 | XGBoost · scikit-learn · Flask |
-| [📈 Analytics Dashboard](https://github.com/Subakkumar/analytics-dashboard) | Full stack BI dashboard with live KPIs and charts | Flask · SQLite · Chart.js |
-| [🎮 Steam Store EDA](https://github.com/Subakkumar/steam-eda) | Market analysis of 122K Steam games | Pandas · Matplotlib · NumPy |
-| [🛒 Funnel Analysis](https://github.com/Subakkumar/funnel-analysis) | E-commerce conversion funnel across 50K sessions | Pandas · Matplotlib · NumPy |
+|:---|:---|:---|
+| [📉 Churn Prediction](https://github.com/Subakkumar/churn-prediction) | Predicts customer churn using ML classification — XGBoost model AUC 0.9879 | XGBoost · scikit-learn · Flask |
+| [📈 Analytics Dashboard](https://github.com/Subakkumar/analytics-dashboard) | Full stack BI dashboard with live KPIs, trend charts and product analytics | Flask · SQLite · Chart.js |
+| [🎮 Steam Store EDA](https://github.com/Subakkumar/steam-eda) | Exploratory market analysis of 122K Steam games — pricing and genre trends | Pandas · Matplotlib · NumPy |
+| [🛒 Funnel Analysis](https://github.com/Subakkumar/funnel-analysis) | E-commerce conversion funnel analysis across 50K simulated user sessions | Pandas · Matplotlib · NumPy |
 
 ---
 
