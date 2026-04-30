@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Subak Kumar 👋</h1>
 
 <p align="center">
-  <b>AI Engineer · Data Scientist · Python Developer · Cisco & Networking</b><br/>
+  <b>AI Engineer · Data Analyst · Python Developer · Cisco & Networking</b><br/>
   Building intelligent tools that solve real engineering and business problems
 </p>
 
