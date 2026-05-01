@@ -60,5 +60,5 @@
 ---
 
 <p align="center">
-  <i>Open to AI/ML engineer, data scientist, and software developer roles — let's build something great.</i>
+  <i>Open to Work — let's build something great.</i>
 </p>
