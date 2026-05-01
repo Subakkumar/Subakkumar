@@ -1,8 +1,20 @@
 <h1 align="center">Hey, I'm Subak Kumar 👋</h1>
 
 <p align="center">
-  <b>AI Engineer · Data Analyst · Python Developer · Cisco & Networking</b><br/>
+  <b>AI Engineer · Data Analyst · Python Developer · Cisco Certified</b><br/>
   Building intelligent tools that solve real engineering and business problems
+</p>
+
+<p align="center">
+  <a href="https://subakkumar.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-修羅-8b0000?style=for-the-badge&labelColor=000000&color=8b0000"/>
+  </a>
+  &nbsp;
+  <a href="mailto:subakkumarss@gmail.com">
+    <img src="https://img.shields.io/badge/Email-subakkumarss%40gmail.com-c9a84c?style=for-the-badge&labelColor=000000&color=c9a84c"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-3fb950?style=for-the-badge&labelColor=000000&color=3fb950"/>
 </p>
 
 <p align="center">
@@ -13,6 +25,18 @@
   <img src="https://img.shields.io/badge/XGBoost-ML-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
+
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://subakkumar.github.io">
+    <img src="https://img.shields.io/badge/▶%20View%20Live%20Portfolio-subakkumar.github.io-8b0000?style=for-the-badge&labelColor=050709&color=8b0000"/>
+  </a>
+</p>
+
+> Sekiro-themed interactive portfolio — projects, skills, experience, all in one place.
 
 ---
 
@@ -39,10 +63,10 @@
 
 ## 🔧 Tech Stack
 
-**AI & LLMs:** Groq API · LLM Integration · Prompt Engineering · RAG Pipelines · Streaming APIs  
-**ML & Data:** XGBoost · scikit-learn · ChromaDB · Sentence Transformers · NumPy · Pandas · Matplotlib  
-**Backend:** Python · Flask · SQLAlchemy · REST APIs · APScheduler  
-**Networking:** Cisco IOS · CCNA · Routing & Switching · VLANs · OSPF · Network Automation · Netmiko  
+**AI & LLMs:** Groq API · LLM Integration · Prompt Engineering · RAG Pipelines · ChromaDB · Sentence Transformers  
+**ML & Data:** XGBoost · scikit-learn · TensorFlow · NumPy · Pandas · Matplotlib · Seaborn  
+**Backend:** Python · Flask · SQLAlchemy · REST APIs · SQLite · APScheduler  
+**Networking:** Cisco IOS · Routing & Switching · VLANs · OSPF · Network Automation · Netmiko  
 **Tools:** Git · GitHub · VS Code · Jupyter · Linux · Wireshark · Packet Tracer  
 
 ---
@@ -60,5 +84,5 @@
 ---
 
 <p align="center">
-  <i>Open to Work — let's build something great.</i>
+  <i>修羅 · Hesitation is defeat. Build without hesitation.</i>
 </p>
