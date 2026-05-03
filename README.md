@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://github.com/Subakkumar/portfolio-detroit">
-    <img src="https://img.shields.io/badge/▶%20View%20Live%20subakkumar.github.io/portfolio-detroit-8b0000?style=for-the-badge&labelColor=050709&color=8b0000"/>
+    <img src="https://img.shields.io/badge/▶%20View%20Live%20subakkumar.github.io/portfolio-detroit/-8b0000?style=for-the-badge&labelColor=050709&color=8b0000"/>
   </a>
 </p>
 
