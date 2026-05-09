@@ -1,5 +1,5 @@
-- Hello there
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f6597b4-ff7c-4415-9272-d95759df842f" width="400">
+- It's Not a bug! It's a Feature!!
+<img src="https://user-images.githubusercontent.com/74038190/213760482-f7fa7b7b-7d6c-4063-bdd7-4483749948ad.gif" width="300">
 <br><br>
 
 <h1 align="center">Hey, I'm Subak Kumar 👋</h1>
