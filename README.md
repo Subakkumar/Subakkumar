@@ -1,5 +1,5 @@
-- Perfect Loop
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+- Laptop Punching user
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f508f05-88cd-4b49-97ed-c7841874ccfc" width="300">
 <br><br>
 
 <h1 align="center">Hey, I'm Subak Kumar 👋</h1>
