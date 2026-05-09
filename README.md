@@ -5,7 +5,7 @@
 <h1 align="center">Hey, I'm Subak Kumar 👋</h1>
 
 <p align="center">
-  <b>AI Engineer · Data Analyst · Python Developer · Cisco Certified</b><br/>
+  <b>AI Engineer · Data Analyst · Python Developer · Cisco & NW</b><br/>
   Building intelligent tools that solve real engineering and business problems
 </p>
 
