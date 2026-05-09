@@ -1,5 +1,4 @@
-- Laptop Punching user
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f508f05-88cd-4b49-97ed-c7841874ccfc" width="300">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2f72c61a-5932-491f-b3ba-d3b3470c00cb" width="300">
 <br><br>
 
 <h1 align="center">Hey, I'm Subak Kumar 👋</h1>
