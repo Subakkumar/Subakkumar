@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Groq-LLM-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ChromaDB-Vector_DB-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/XGBoost-ML-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plotly_Dash-Interactive-3D4FFF?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
@@ -44,11 +45,11 @@
 
 <p align="center">
   <a href="https://subakkumar.github.io/portfolio-detroit/">
-    <img src="https://img.shields.io/badge/▶%20View%20Live%20subakkumar.github.io/portfolio-detroit-8b0000?style=for-the-badge&labelColor=050709&color=8b0000"/>
+    <img src="https://img.shields.io/badge/▶%20Detroit%20Portfolio-subakkumar.github.io/portfolio--detroit-4a90c4?style=for-the-badge&labelColor=050709&color=4a90c4"/>
   </a>
 </p>
 
-> Detroit-themed interactive portfolio — A liitle side Project.
+> Detroit: Become Human themed portfolio — clean, futuristic, clinical UI.
 
 ---
 
@@ -71,12 +72,22 @@
 | [🎮 Steam Store EDA](https://github.com/Subakkumar/steam-eda) | Exploratory market analysis of 122K Steam games — pricing and genre trends | Pandas · Matplotlib · NumPy |
 | [🛒 Funnel Analysis](https://github.com/Subakkumar/funnel-analysis) | E-commerce conversion funnel analysis across 50K simulated user sessions | Pandas · Matplotlib · NumPy |
 
+## ⚡ Interactive Dashboards — Plotly Dash
+
+| Project | What it does | Stack |
+|:---|:---|:---|
+| [🛒 Funnel Dashboard](https://github.com/Subakkumar/funnel-dashboard) | Interactive e-commerce funnel — live filters across device, source, country, category | Plotly Dash · Pandas |
+| [📉 Churn Dashboard](https://github.com/Subakkumar/churn-dashboard) | ML churn dashboard — risk table, feature importance, probability distribution | Plotly Dash · XGBoost · joblib |
+| [📈 Analytics BI Dashboard](https://github.com/Subakkumar/analytics-plotly) | Full BI dashboard — revenue heatmap, top products, margin analysis, order trends | Plotly Dash · Pandas |
+| [📊 Stock Intelligence](https://github.com/Subakkumar/stock-dashboard) | Live stock data — candlestick, RSI, MACD, multi-stock comparison, correlation matrix | Plotly Dash · yfinance |
+
 ---
 
 ## 🔧 Tech Stack
 
 **AI & LLMs:** Groq API · LLM Integration · Prompt Engineering · RAG Pipelines · ChromaDB · Sentence Transformers  
 **ML & Data:** XGBoost · scikit-learn · TensorFlow · NumPy · Pandas · Matplotlib · Seaborn  
+**Dashboards:** Plotly Dash · Chart.js · Plotly · yfinance · Real-time Data  
 **Backend:** Python · Flask · SQLAlchemy · REST APIs · SQLite · APScheduler  
 **Networking:** Cisco IOS · Routing & Switching · VLANs · OSPF · Network Automation · Netmiko  
 **Tools:** Git · GitHub · VS Code · Jupyter · Linux · Wireshark · Packet Tracer  
