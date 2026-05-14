@@ -1,8 +1,5 @@
 <p align="center">
   <img width="1440" height="554" alt="image" src="https://github.com/user-attachments/assets/19c974ff-8683-49d8-afd1-7b8a0785a12a" />
-<img width="1440" height="554" alt="image" src="https://github.com/user-attachments/assets/dc0fb840-baf8-47f1-9a03-93d93f5aaa4d" />
-
-
 <br><br>
 
 <h1 align="center">Hey, I'm Subak Kumar 👋</h1>
