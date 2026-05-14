@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="400" alt="hello world" src="https://github.com/user-attachments/assets/50d71626-b740-47df-81b6-172cb4dbb950" />
+  <img width="600" height="400" alt="hello world" src="https://github.com/user-attachments/assets/50d71626-b740-47df-81b6-172cb4dbb950" />
 <br><br>
 
 <h1 align="center">Hey, I'm Subak Kumar 👋</h1>
