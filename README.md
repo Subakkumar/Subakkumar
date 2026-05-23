@@ -103,11 +103,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subakkumar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-</p>
-
----
-
-<p align="center">
   <i>修羅 · Hesitation is defeat. Build without hesitation.</i>
 </p>
